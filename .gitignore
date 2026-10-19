@@ -1,0 +1,5 @@
+c/robo-coleta/robo_coleta
+c/labirinto-3d/labirinto3d
+*.exe
+*.o
+.DS_Store
