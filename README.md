@@ -2,7 +2,7 @@
 
 Jogo 3D em primeira pessoa que roda no terminal, escrito em C99 só com a biblioteca padrão.
 
-![Labirinto 3D](../../docs/img/labirinto-3d.png)
+![Labirinto 3D](./labirinto-3d.png)
 
 Ache os três cristais espalhados pelo labirinto. Quando o último for pego, a porta laranja fica verde e abre. Passe por ela para escapar.
 
